@@ -1,1 +1,98 @@
+HACKERRANK SUPPORT - ACCOUNT & LOGIN
 
+If you are unable to log in to your HackerRank account, you can reset your password using the "Forgot Password" option. Ensure the correct email is used. If your account is locked after multiple failed attempts, wait for some time or contact support.
+
+
+HACKERRANK SUPPORT - TEST ACCESS & INVITATIONS
+
+Tests remain active unless an expiration time is set. If candidates are not receiving tests, check invitation settings and ensure the test has not expired. Update start and end times in test settings if needed.
+
+
+HACKERRANK SUPPORT - ASSESSMENTS NOT LOADING
+
+If a test is not loading or freezes, ensure you have a stable internet connection and use a supported browser. Refresh the page or retry. Disable extensions that may block scripts.
+
+
+HACKERRANK SUPPORT - SUBMISSIONS NOT WORKING
+
+If submissions are failing or not being accepted, verify your code matches the required format. Check for syntax errors and ensure all test cases pass. Unsupported libraries may cause errors.
+
+
+HACKERRANK SUPPORT - MOCK INTERVIEW ISSUES
+
+If mock interviews stop midway or disconnect, check your internet connection and browser permissions. Ensure camera and microphone access is enabled. Try restarting the session.
+
+
+HACKERRANK SUPPORT - PAYMENT & REFUND
+
+If you face payment issues, verify transaction details and ensure sufficient balance. For refunds, contact support with order details. Refund eligibility depends on policies.
+
+
+HACKERRANK SUPPORT - ACCESS & UI ISSUES
+
+If you cannot see certain options like "Apply" or features are missing, ensure your account has the correct permissions. Try logging out and back in or clearing browser cache.
+
+
+HACKERRANK SUPPORT - CANDIDATE MANAGEMENT
+
+To modify candidate settings like extra time or reinvite, go to the test dashboard, select candidates, and use available options like "Add Time" or "Reinvite".
+
+
+HACKERRANK SUPPORT - GENERAL USAGE
+
+For help with hiring setup, test creation, or workflows, refer to documentation or contact support for onboarding assistance.
+
+
+CLAUDE HELP CENTER - ACCOUNT ACCESS
+
+If you cannot access your Claude account or workspace, verify your credentials and ensure your access has not been removed by an admin. Contact your workspace admin if needed.
+
+
+CLAUDE HELP CENTER - API & INTEGRATION
+
+For API issues, verify API keys, authentication, and usage limits. Ensure correct integration setup and check error logs.
+
+
+CLAUDE HELP CENTER - DATA PRIVACY & SECURITY
+
+If you have shared sensitive data in a conversation, you can delete the conversation. Review privacy settings and data usage policies for more control.
+
+
+CLAUDE HELP CENTER - FEATURE REQUESTS
+
+To request new features or improvements, submit feedback through official channels or support forms.
+
+
+CLAUDE HELP CENTER - SERVICE NOT WORKING
+
+If Claude is not responding or requests are failing, check system status, API limits, and internet connectivity.
+
+
+VISA SUPPORT - PAYMENTS
+
+If your payment is declined, contact your bank to verify the transaction. Ensure sufficient balance and international usage is enabled if required.
+
+
+VISA SUPPORT - REFUNDS & DISPUTES
+
+If you received the wrong product or need a refund, contact the merchant first. If unresolved, raise a dispute with your bank.
+
+
+VISA SUPPORT - FRAUD & UNAUTHORIZED TRANSACTIONS
+
+If you notice unauthorized activity, immediately report it to your bank. Your card may be blocked and replaced.
+
+
+VISA SUPPORT - LOST OR STOLEN CARD
+
+If your card is lost or stolen, block it immediately using your bank app or customer support. Emergency assistance may be available.
+
+
+VISA SUPPORT - CASH & EMERGENCY NEEDS
+
+For urgent cash needs, contact your bank for emergency withdrawal or support services.
+
+
+GENERAL SUPPORT - OUT OF SCOPE
+
+If the query is unrelated to supported services or cannot be resolved using available documentation, escalate to human support for further review.
