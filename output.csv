@@ -1,0 +1,122 @@
+status,product_area,response,justification,request_type,confidence
+replied,Claude,"Based on your query, here is relevant information:
+
+If you cannot access your Claude account or workspace, verify your credentials and ensure your access has not been removed by an admin. Contact your workspace admin if needed.
+
+If this does not resolve your issue, please let us know.",Replied using support documentation (score=0.61),invalid,0.61
+replied,Assessment,"Based on your query, here is relevant information:
+
+HACKERRANK SUPPORT - TEST ACCESS & INVITATIONS
+
+If this does not resolve your issue, please let us know.",Replied using support documentation (score=0.26),invalid,0.263
+replied,Payments,"Based on your query, here is relevant information:
+
+VISA SUPPORT - PAYMENTS
+
+If this does not resolve your issue, please let us know.",Replied using support documentation (score=0.36),product_issue,0.364
+replied,Payments,"Based on your query, here is relevant information:
+
+If mock interviews stop midway or disconnect, check your internet connection and browser permissions. Ensure camera and microphone access is enabled. Try restarting the session.
+
+If this does not resolve your issue, please let us know.",Replied using support documentation (score=0.16),bug,0.158
+replied,Payments,"Based on your query, here is relevant information:
+
+HACKERRANK SUPPORT - PAYMENT & REFUND
+
+If this does not resolve your issue, please let us know.",Replied using support documentation (score=0.23),product_issue,0.227
+replied,HackerRank,"Based on your query, here is relevant information:
+
+For help with hiring setup, test creation, or workflows, refer to documentation or contact support for onboarding assistance.
+
+If this does not resolve your issue, please let us know.",Replied using support documentation (score=0.17),product_issue,0.172
+replied,General,"Based on your query, here is relevant information:
+
+HACKERRANK SUPPORT - SUBMISSIONS NOT WORKING
+
+If this does not resolve your issue, please let us know.",Replied using support documentation (score=0.56),bug,0.565
+replied,Assessment,"Based on your query, here is relevant information:
+
+HACKERRANK SUPPORT - SUBMISSIONS NOT WORKING
+
+If this does not resolve your issue, please let us know.",Replied using support documentation (score=0.34),product_issue,0.343
+replied,Assessment,"Based on your query, here is relevant information:
+
+If Claude is not responding or requests are failing, check system status, API limits, and internet connectivity.
+
+If this does not resolve your issue, please let us know.",Replied using support documentation (score=0.21),bug,0.206
+replied,Assessment,"Based on your query, here is relevant information:
+
+To modify candidate settings like extra time or reinvite, go to the test dashboard, select candidates, and use available options like ""Add Time"" or ""Reinvite"".
+
+If this does not resolve your issue, please let us know.",Replied using support documentation (score=0.33),feature_request,0.33
+replied,Assessment,"Based on your query, here is relevant information:
+
+Tests remain active unless an expiration time is set. If candidates are not receiving tests, check invitation settings and ensure the test has not expired. Update start and end times in test settings if needed.
+
+If this does not resolve your issue, please let us know.",Replied using support documentation (score=0.25),product_issue,0.253
+replied,General,"Based on your query, here is relevant information:
+
+CLAUDE HELP CENTER - SERVICE NOT WORKING
+
+If this does not resolve your issue, please let us know.",Replied using support documentation (score=0.36),bug,0.357
+escalated,Assessment,Your issue requires further review. We are escalating this to our support team.,Escalated due to high risk or low confidence (score=0.11),product_issue,0.113
+replied,General,"Based on your query, here is relevant information:
+
+For help with hiring setup, test creation, or workflows, refer to documentation or contact support for onboarding assistance.
+
+If this does not resolve your issue, please let us know.",Replied using support documentation (score=0.23),invalid,0.226
+replied,Claude,"Based on your query, here is relevant information:
+
+If Claude is not responding or requests are failing, check system status, API limits, and internet connectivity.
+
+If this does not resolve your issue, please let us know.",Replied using support documentation (score=0.53),bug,0.532
+escalated,Fraud,Your issue requires further review. We are escalating this to our support team.,Escalated due to high risk or low confidence (score=0.36),invalid,0.358
+replied,General,"Based on your query, here is relevant information:
+
+CLAUDE HELP CENTER - ACCOUNT ACCESS
+
+If this does not resolve your issue, please let us know.",Replied using support documentation (score=0.29),product_issue,0.292
+escalated,Assessment,Your issue requires further review. We are escalating this to our support team.,Escalated due to high risk or low confidence (score=0.15),invalid,0.148
+replied,General,"Based on your query, here is relevant information:
+
+If you received the wrong product or need a refund, contact the merchant first. If unresolved, raise a dispute with your bank.
+
+If this does not resolve your issue, please let us know.",Replied using support documentation (score=0.23),product_issue,0.226
+escalated,Claude,Your issue requires further review. We are escalating this to our support team.,Escalated due to high risk or low confidence (score=0.42),bug,0.42
+replied,Claude,"Based on your query, here is relevant information:
+
+CLAUDE HELP CENTER - DATA PRIVACY & SECURITY
+
+If this does not resolve your issue, please let us know.",Replied using support documentation (score=0.29),invalid,0.291
+escalated,Payments,Your issue requires further review. We are escalating this to our support team.,Escalated due to high risk or low confidence (score=0.34),invalid,0.336
+replied,Claude,"Based on your query, here is relevant information:
+
+CLAUDE HELP CENTER - DATA PRIVACY & SECURITY
+
+If this does not resolve your issue, please let us know.",Replied using support documentation (score=0.29),product_issue,0.29
+replied,General,"Based on your query, here is relevant information:
+
+If you have shared sensitive data in a conversation, you can delete the conversation. Review privacy settings and data usage policies for more control.
+
+If this does not resolve your issue, please let us know.",Replied using support documentation (score=0.17),invalid,0.172
+escalated,Payments,Your issue requires further review. We are escalating this to our support team.,Escalated due to high risk or low confidence (score=0.41),invalid,0.406
+replied,Claude,"Based on your query, here is relevant information:
+
+HACKERRANK SUPPORT - MOCK INTERVIEW ISSUES
+
+If this does not resolve your issue, please let us know.",Replied using support documentation (score=0.24),bug,0.243
+replied,Account,"Based on your query, here is relevant information:
+
+HACKERRANK SUPPORT - ACCOUNT & LOGIN
+
+If this does not resolve your issue, please let us know.",Replied using support documentation (score=0.31),invalid,0.308
+replied,Claude,"Based on your query, here is relevant information:
+
+CLAUDE HELP CENTER - ACCOUNT ACCESS
+
+If this does not resolve your issue, please let us know.",Replied using support documentation (score=0.23),invalid,0.229
+replied,Payments,"Based on your query, here is relevant information:
+
+VISA SUPPORT - LOST OR STOLEN CARD
+
+If this does not resolve your issue, please let us know.",Replied using support documentation (score=0.40),invalid,0.399
